@@ -1,0 +1,10 @@
+.idea/
+__pycache__/
+*.pyc
+*.env
+TOKEN.txt
+token.txt
+*.key
+*.secret
+config.py
+settings.py
